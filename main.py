@@ -10,3 +10,4 @@ if __name__ == '__main__':
     print('hello hot-fix')
     print('master test')
     print('hot-fix test')
+    print('push test')
