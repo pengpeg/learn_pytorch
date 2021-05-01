@@ -3,3 +3,7 @@
 # @Author  : Chen
 # @File    : main.py
 # @Software: PyCharm
+
+
+if __name__ == '__main__':
+    print('hello world')
